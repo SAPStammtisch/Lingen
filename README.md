@@ -16,3 +16,16 @@ Vergangene Events:<br>
 17.05.2017 SAP-Stammtisch Marco Büscher – SAP Sourcing Ausschreibungen im Einkauf<br>
 22.02.2017 SAP-Stammtisch Stellwerk Consulting – Neuerungen im SAP Rechnungswesen – New G/L und S4/Hana<br>
 19.10.2016 SAP-Stammtisch – Treffen des EMS-IT SAP-Stammtisch<br>
+
+ Impressionen:
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
+
+ Organisator:
+
+ 	
+
+Marco Büscher	
+
+Wenn auch Sie als Organisator mitwirken möchten melden Sie sich gerne!
