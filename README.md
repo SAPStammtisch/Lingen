@@ -45,7 +45,7 @@ Vergangene Events:<br>
  Organisator:
 
  	
-![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild21.jpg)
+![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild21.jpg)<br>
 Marco Büscher	
 
 Wenn auch Sie als Organisator mitwirken möchten melden Sie sich gerne!
