@@ -19,8 +19,7 @@ Vergangene Events:<br>
 
  Impressionen:
 
-![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild21.jpg)
-![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild20.jpg)
+
 ![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild19.png)
 ![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild18.png)
 ![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild17.png)
@@ -28,9 +27,9 @@ Vergangene Events:<br>
 ![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild15.png)
 ![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild14.jpg)
 ![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild13.jpg)
-![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild12.jpg)
+![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild12.png)
 ![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild11.jpg)
-![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild10.jpg)
+![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild10.png)
 ![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild9.jpg)
 ![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild8.jpg)
 ![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild7.jpg)
@@ -40,13 +39,13 @@ Vergangene Events:<br>
 ![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild3.png)
 ![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild2.png)
 ![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild1.png)
-
+![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild20.jpg)
 
 
  Organisator:
 
  	
-
+![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild21.jpg)
 Marco Büscher	
 
 Wenn auch Sie als Organisator mitwirken möchten melden Sie sich gerne!
