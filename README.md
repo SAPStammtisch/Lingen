@@ -18,7 +18,11 @@ Vergangene Events:<br>
 19.10.2016 SAP-Stammtisch – Treffen des EMS-IT SAP-Stammtisch<br>
 
  Impressionen:
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+![This is an image](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild4.png)
+![This is an image](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild3.png)
+![This is an image](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild2.png)
+![This is an image](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild1.png)
 
 
 
