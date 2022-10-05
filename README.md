@@ -15,25 +15,25 @@ Vergangene Events:<br>
 15.02.2019  Marco Büscher – SAP CodeJam Lingen (Ingo Bräuninger, SAP), Kaiserstrasse 10b, 49808 Lingen<br>
 17.05.2017 SAP-Stammtisch Marco Büscher – SAP Sourcing Ausschreibungen im Einkauf<br>
 22.02.2017 SAP-Stammtisch Stellwerk Consulting – Neuerungen im SAP Rechnungswesen – New G/L und S4/Hana<br>
-19.10.2016 SAP-Stammtisch – Treffen des EMS-IT SAP-Stammtisch<br>
+19.10.2016 SAP-Stammtisch – Treffen des EMS-IT SAP-Stammtisch<br> 
 
  Impressionen:
 
-![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild21.png)
-![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild20.png)
+![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild21.jpg)
+![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild20.jpg)
 ![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild19.png)
 ![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild18.png)
 ![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild17.png)
 ![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild16.png)
 ![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild15.png)
-![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild14.png)
-![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild13.png)
-![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild12.png)
-![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild11.png)
-![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild10.png)
-![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild9.png)
-![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild8.png)
-![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild7.png)
+![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild14.jpg)
+![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild13.jpg)
+![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild12.jpg)
+![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild11.jpg)
+![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild10.jpg)
+![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild9.jpg)
+![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild8.jpg)
+![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild7.jpg)
 ![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild6.png)
 ![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild5.png)
 ![SAP Stammtisch Lingen](https://github.com/SAPStammtisch/Lingen/blob/gh-pages/res/Bild4.png)
